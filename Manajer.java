@@ -2,7 +2,7 @@
 public class Manajer 
 {
     protected String nama;
-    protected String gaji;
+    protected int gaji;
    
     public Manajer (String name, int gaji)
     {
